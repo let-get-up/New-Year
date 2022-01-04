@@ -1,0 +1,87 @@
+    body {
+background-color: lemonchiffon;
+color: rgb(255, 0, 0);
+    }
+
+.UUU{
+    width: 49%; 
+    display: inline-block;
+    height: 600px;
+    border: 3px solid rgb(179, 31, 31);
+    border-radius: 10px;
+}
+.GGG{
+    font-size: 240%;
+    color: rgb(255, 0, 0);
+}
+
+
+.Ykr{
+    font-size: 500%;
+    text-align: center;
+    color: rgb(16, 251, 255);
+    text-shadow: 7px  6px  6px rgb(204, 30, 30);
+    text-decoration:underline;
+}
+.ddd{
+font-size: 220%;
+color:lime;
+background-color: lemonchiffon;
+}
+.ooo{
+    text-align: center;
+    text-shadow: 7px 6px 6px rgb(255, 238, 0);
+    font-size: 600%;
+}
+
+
+
+.ama{
+    font-size: 250%;
+    color: rgb(155, 20, 94);
+}
+.qqq{
+font-size: 500%;
+text-align: center;
+text-shadow: 7px 6px 5px rgb(19, 165, 19);
+color: rgb(175, 22, 93);
+text-decoration: underline;
+}
+.zxz{
+    font-size: 245%;
+color: rgb(72, 39, 148);
+}
+.iii{
+    font-size: 500%;
+    text-align: center;
+    text-shadow: 7px 6px 5px darkorange;
+    color: rgb(0, 255, 13);
+    text-decoration: underline;
+}
+.wiw{
+    font-size: 500%;
+    text-align: center;
+    text-shadow: 7px 6px 6px rgb(255, 0, 149);
+    color: rgb(255, 72, 0);
+    text-decoration: underline;
+
+}
+.lkl{
+    font-size: 243%;
+    color: rgb(0, 17, 255);
+}
+.ccc{
+    border: 3px solid rgb(179, 31, 31);
+    border-radius: 10px;
+}
+.fff{
+    font-size: 500%;
+    text-align: center;
+    text-shadow: 7px 6px 6px rgb(0, 255, 136);
+    color: rgb(217, 255, 0);
+    text-decoration: underline;
+}
+.jkj{
+    font-size: 245%;
+color: rgb(39, 99, 148);
+}
